@@ -1,4 +1,3 @@
-```Markdown
 # 🧠 Bryan Engel's AI Agent Portfolio
 
 Welcome to my collection of specialized AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges. As Co-founder of Noetic Synthesis and CEO at Opti-Flow.AI, I've developed these intelligent tools to help professionals and businesses leverage the power of AI in practical, meaningful ways.
@@ -451,4 +450,3 @@ Ready to transform your workflow with custom AI solutions? I specialize in creat
 [📬 Contact me](mailto:bryan@opti-flow.ai) or [Connect on LinkedIn](https://www.linkedin.com/in/bryanengel)
 
 *Based in Carlsbad, California | Co-founder of Noetic Synthesis | CEO at Opti-Flow.AI*
-```
